@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(248, 219, 233);
+}
+
+.pg-principal {
+    border: solid 1px;
+    height: 51px;
+    background: pink;
+}
+
+span {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(212, 26, 57);
+}
+
+.texto {
+    margin-top: 87px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+textarea {
+    width: 268%;
+    background-color: rgb(248, 152, 205);
+    height: 130px;
+    margin-left: -32px;
+}
+
+.textarea2 {
+    width: 35%;
+    background-color: rgb(248, 152, 205);
+    height: 130px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.liPost {
+    width: 50%;
+    list-style: none;
+    height: auto;
+    padding: 10px;
+    margin-top: 15px;
+}

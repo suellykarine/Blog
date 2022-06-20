@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(248, 219, 233);
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    margin-left: 37px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.cadastro {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+.cadstro-input {
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+button {
+    border-radius: 5px;
+}
